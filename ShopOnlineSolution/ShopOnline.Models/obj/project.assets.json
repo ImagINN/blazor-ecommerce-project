@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gökhan Sal\\source\\repos\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Gökhan Sal\\Source\\Repos\\BB_Bingol_Mobilya\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj",
       "projectName": "ShopOnline.Models",
-      "projectPath": "C:\\Users\\Gökhan Sal\\source\\repos\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj",
+      "projectPath": "C:\\Users\\Gökhan Sal\\Source\\Repos\\BB_Bingol_Mobilya\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj",
       "packagesPath": "C:\\Users\\Gökhan Sal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gökhan Sal\\source\\repos\\ShopOnlineSolution\\ShopOnline.Models\\obj\\",
+      "outputPath": "C:\\Users\\Gökhan Sal\\Source\\Repos\\BB_Bingol_Mobilya\\ShopOnlineSolution\\ShopOnline.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gökhan Sal\\AppData\\Roaming\\NuGet\\NuGet.Config",

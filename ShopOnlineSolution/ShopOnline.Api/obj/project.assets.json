@@ -2246,11 +2246,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gökhan Sal\\source\\repos\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Gökhan Sal\\Source\\Repos\\BB_Bingol_Mobilya\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj",
       "projectName": "ShopOnline.Api",
-      "projectPath": "C:\\Users\\Gökhan Sal\\source\\repos\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj",
+      "projectPath": "C:\\Users\\Gökhan Sal\\Source\\Repos\\BB_Bingol_Mobilya\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj",
       "packagesPath": "C:\\Users\\Gökhan Sal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gökhan Sal\\source\\repos\\ShopOnlineSolution\\ShopOnline.Api\\obj\\",
+      "outputPath": "C:\\Users\\Gökhan Sal\\Source\\Repos\\BB_Bingol_Mobilya\\ShopOnlineSolution\\ShopOnline.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gökhan Sal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2267,8 +2267,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Gökhan Sal\\source\\repos\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj": {
-              "projectPath": "C:\\Users\\Gökhan Sal\\source\\repos\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj"
+            "C:\\Users\\Gökhan Sal\\Source\\Repos\\BB_Bingol_Mobilya\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj": {
+              "projectPath": "C:\\Users\\Gökhan Sal\\Source\\Repos\\BB_Bingol_Mobilya\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj"
             }
           }
         }

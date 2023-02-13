@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5MvK4hHT8aZd7qYLtoc3HTB/gghoPEsFnl4vBQ/opncZ2tqmr6gnCstyrdS6xqy2CJB1YZ+X8a26TGFwc/WCeA==",
+  "dgSpecHash": "DQBQUEQ6e/Z7Li0SH7zHe9EwKwIjKrIRljbHYW/bzkkcG7Q8Ru5bOaZlAFAgmCNv6GQ4AUcel8rfPLI/0NORWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gökhan Sal\\source\\repos\\ShopOnlineSolution\\ShopOnline.Web\\ShopOnline.Web.csproj",
+  "projectFilePath": "C:\\Users\\Gökhan Sal\\Source\\Repos\\BB_Bingol_Mobilya\\ShopOnlineSolution\\ShopOnline.Web\\ShopOnline.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gökhan Sal\\.nuget\\packages\\blazored.localstorage\\4.3.0\\blazored.localstorage.4.3.0.nupkg.sha512",
     "C:\\Users\\Gökhan Sal\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.12\\microsoft.aspnetcore.authorization.6.0.12.nupkg.sha512",

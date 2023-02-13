@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "txTDuPUjKhTmPgv5NhyWrstIlnqbMZyPN4zEccUnvc+bvNcY1/oXxC3lGw02RlAvlDI1DT0WHQs85zqNmAwCjA==",
+  "dgSpecHash": "d5f7fK8bfveqLQ8xrI/TdBKkr1aK8Jc7Gi6f1UPwKnptkHGA6oExn/5oN3JrNXDVf5ru3+M1m+g2K1OeV01d+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gökhan Sal\\source\\repos\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj",
+  "projectFilePath": "C:\\Users\\Gökhan Sal\\Source\\Repos\\BB_Bingol_Mobilya\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gökhan Sal\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Gökhan Sal\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
